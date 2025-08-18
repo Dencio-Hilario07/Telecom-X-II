@@ -1,4 +1,4 @@
-# Telecom-X-II
+
 # Telecom X – Parte 2: Prevendo Churn
 
 ## 📣 História do Desafio
